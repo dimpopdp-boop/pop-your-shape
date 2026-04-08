@@ -68,17 +68,17 @@ export default function PopYourShapeSite() {
           className="absolute inset-0 h-full w-full object-cover opacity-40"
         />
         <div className="relative mx-auto max-w-7xl px-6 py-24 md:py-32">
-          <h1 className="text-5xl md:text-7xl font-black leading-tight">
-            Transforme ton corps.
-            <br />
-            <span className="text-red-600">Renforce ton mental.</span>
-          </h1>
+        <h1 className="text-5xl md:text-7xl font-black leading-tight">
+            Perds du gras.
+           <br />
+         <span className="text-red-600">Renforce ton mental.</span>
+        </h1>
           <p className="mt-6 max-w-2xl text-lg text-gray-300">
             Perds du gras, reprends le contrôle de ton corps et développe un mental solide en 8 semaines grâce à la boxe.
           </p>
           <div className="mt-8 flex gap-4">
             <a href="#offres" className="bg-red-600 px-6 py-4 rounded-xl font-bold">
-              Voir les offres
+              Commencer maintenant
             </a>
             <a href="#contact" className="border border-white px-6 py-4 rounded-xl font-bold">
               Me contacter
@@ -162,9 +162,9 @@ export default function PopYourShapeSite() {
         </div>
         <div>
           <img
-            src="https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf"
-            alt="course"
-            className="rounded-2xl shadow-lg w-full h-full object-cover"
+             src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+              alt="course plage"
+             className="rounded-2xl shadow-lg w-full h-full object-cover"
           />
         </div>
       </section>
