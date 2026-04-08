@@ -162,7 +162,7 @@ export default function PopYourShapeSite() {
         </div>
         <div>
           <img
-             src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+             src="https://www.darty.com/darty-et-vous/sites/darty-et-vous/files/2025-02/corde%20%C3%A0%20sauter_0.jpg"
               alt="course plage"
              className="rounded-2xl shadow-lg w-full h-full object-cover"
           />
