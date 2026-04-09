@@ -225,12 +225,12 @@ export default function PopYourShapeSite() {
               Réserver une séance
             </a>
           </div>
-          <div>
-            <img
-              src="https://images.unsplash.com/photo-1518611012118-696072aa579a"
-              alt="coaching sportif"
-              className="rounded-2xl shadow-lg w-full h-full object-cover"
-            />
+         <div>
+          <img
+          src="/images/coach-boxe-pop-your-shape.jpg"
+          alt="Coaching boxe"
+          className="rounded-2xl shadow-lg"
+          />
           </div>
         </div>
       </section>
