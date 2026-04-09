@@ -1,38 +1,39 @@
 export default function PopYourShapeSite() {
   const offers = [
     {
-      title: "Programme Boxe & Fitness",
-      price: "49€/mois",
+      title: "Programme PDF 8 semaines",
+      price: "49€",
       items: [
-        "1 séance guidée par semaine",
+        "2 séances / semaine",
         "Programme d'entraînement à la maison",
-        "Accès au contenu en ligne",
+        "Accès au contenu Conseils nutritionnels de base",
         "Idéal pour reprendre en main ton corps"
       ],
-      cta: "Commencer maintenant"
+      cta: "Je veux le programme"
     },
     {
-      title: "Coaching Evolution",
+      title: "Pop Your Shape Coaching",
       price: "99€/mois",
       items: [
         "2 séances guidées par semaine",
-        "Programme structuré",
-        "Suivi WhatsApp light",
-        "Plus de cadre et plus de régularité"
-      ],
-      cta: "Passer au niveau supérieur"
-    },
-    {
-      title: "Coaching Elite",
-      price: "149€/mois",
-      items: [
-        "3 séances à distance par semaine",
-        "Programme plus personnalisé",
-        "Suivi WhatsApp prioritaire",
-        "Bilan tous les 15 jours",
-        "PDF nutrition inclus"
+        "Conseils nutritionnels",
+        "Accès groupe WhatsApp Pop Your Shape",
+        "Motivation + dynamique de groupe"
       ],
       cta: "Réserver un appel"
+    },
+    {
+      title: "Transformation",
+      price: "149€/mois",
+      items: [
+        "Programme personnalisé",
+        "3 séances / semaine adaptées à ton niveau",
+        "Suivi WhatsApp",
+        "Accès groupe WhatsApp Pop Your Shape",
+        "Bilan tous les 15 jours",
+        "Conseils nutritionnels"
+      ],
+      cta: "Je veux une transformation"
     }
   ];
 
