@@ -48,7 +48,7 @@ export default function PopYourShapeSite() {
     },
     {
       q: "Est-ce que tu aides aussi sur l'alimentation ?",
-      a: "Oui, avec des conseils simples, concrets et applicables au quotidien. Le PDF nutrition est inclus dans l'offre Coaching Elite."
+      a: "Oui, je donne des conseils nutritionnels adaptés à tes objectifs, sans régime strict, mais avec des principes simples à suivre pour perdre du gras efficacement."
     },
     {
       q: "Combien de temps pour voir des résultats ?",
@@ -59,7 +59,7 @@ export default function PopYourShapeSite() {
   return (
     <div className="min-h-screen bg-white text-black">
       <a
-        href="https://wa.me/590690864014"
+        href="https://wa.me/590690170715"
         className="fixed bottom-5 right-5 bg-red-600 text-white px-5 py-3 rounded-full shadow-lg z-50"
       >
         WhatsApp
@@ -198,7 +198,7 @@ export default function PopYourShapeSite() {
                   ))}
                 </ul>
                 <a
-                  href="https://wa.me/590690864014"
+                  href="https://wa.me/590690170715"
                   className={`mt-8 block w-full py-3 rounded-xl text-center font-bold ${index === 1 ? "bg-black text-white" : "bg-red-600 text-white"}`}
                 >
                   {offer.cta}
@@ -222,7 +222,7 @@ export default function PopYourShapeSite() {
               <p><strong>Lieu :</strong> Bosrédon, Morne-à-l'Eau</p>
               <p><strong>Sur rendez-vous</strong></p>
             </div>
-            <a href="https://wa.me/590690864014" className="inline-block mt-8 bg-red-600 text-white px-6 py-4 rounded-xl font-bold">
+            <a href="https://wa.me/590690170715" className="inline-block mt-8 bg-red-600 text-white px-6 py-4 rounded-xl font-bold">
               Réserver une séance
             </a>
           </div>
@@ -258,7 +258,7 @@ export default function PopYourShapeSite() {
         <div className="relative px-6">
           <h2 className="text-3xl font-black">Prêt à passer à l'action ?</h2>
           <div className="mt-6 flex justify-center gap-4">
-            <a href="https://wa.me/590690864014" className="bg-black px-6 py-3 rounded-xl">
+            <a href="https://wa.me/590690170715" className="bg-black px-6 py-3 rounded-xl">
               WhatsApp
             </a>
           </div>
